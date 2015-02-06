@@ -151,6 +151,15 @@ item.railcraft.fluid.steam.bottle.name=Steam Bottle
 
 item.railcraft.fuel.coke.name=Coal Coke
 
+item.railcraft.furnace.abyssal.name=Abyssal Furnace
+item.railcraft.furnace.bleachedbone.name=Bleached Bone Furnace
+item.railcraft.furnace.bloodstained.name=Blood Stained Furnace
+item.railcraft.furnace.frostbound.name=Frost Bound Furnace
+item.railcraft.furnace.infernal.name=Infernal Furnace
+item.railcraft.furnace.nether.name=Nether Furnace
+item.railcraft.furnace.quarried.name=Quarried Furnace
+item.railcraft.furnace.sandy.name=Sandy Furnace
+
 item.railcraft.ingot.copper.name=Copper Ingot
 item.railcraft.ingot.lead.name=Lead Ingot
 item.railcraft.ingot.steel.name=Steel Ingot
